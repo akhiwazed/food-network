@@ -1,0 +1,22 @@
+#header{
+    display: inline-flex;
+}
+.header-part{
+    width: 50%;
+    padding-left: 5%;
+}
+.text-color{
+    color: orange;
+}
+.link-color{
+    padding: 10px 40px;
+    text-decoration: none;
+    background-image: linear-gradient(tomato, orange);
+    border-radius: 10px;
+}
+h1{
+    font-size: 30px;
+}
+.header-part img{
+    width: 500px;
+}
